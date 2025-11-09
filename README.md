@@ -1,4 +1,4 @@
-# awesome-macos-window-managers
+# Awesome macOS window managers
 
 This is my curated list of awesome macOS window managers. 
 
