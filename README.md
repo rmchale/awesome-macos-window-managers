@@ -1,5 +1,7 @@
 # awesome-macos-window-managers
 
+This is my curated list of awesome macOS window managers. 
+
 - Aerospace
 	- https://github.com/nikitabobko/AeroSpace
 - Amethyst
@@ -13,6 +15,6 @@
 - PaperWM
 	- https://github.com/mogenson/PaperWM.spoon
 - Rift
-	- https://github.com/glide-wm/glide
+	- https://github.com/acsandmann/rift
 - Yabai
 	- https://github.com/koekeishiya/yabai
